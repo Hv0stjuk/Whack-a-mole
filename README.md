@@ -1,1 +1,1 @@
-# Whack-a-mole
+https://hv0stjuk.github.io/Whack-a-mole
